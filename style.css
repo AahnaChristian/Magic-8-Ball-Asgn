@@ -1,0 +1,25 @@
+html {
+    background: url("fantasty.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background: rgba(255, 255, 255, 0.685);
+    border-radius: 25px;
+    text-align: left;
+    padding: 45px 100px;
+    margin: 30px 270px auto;
+}
+
+#ansInput, #queInput {
+    font-weight: normal;
+    color:rgb(100, 0, 25);
+    font-family: Brush Script MT;
+}
+
+#queInput {
+    width: 600px;
+    margin-left: 5px;
+    height: 35px;
+    font-size: large;
+}
